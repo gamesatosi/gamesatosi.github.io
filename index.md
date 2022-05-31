@@ -2,26 +2,17 @@
 
 Now, I start to write a blog and share the details of my life!!! Hope you can enjoy it!
 
-### Markdown
+### Calculus Knowledge Review
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+**Definition of Uniform Continuity:**
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+We say $f$ is uniformly continuous on $S\in \R$ if for every $\epsilon >0$, there exists $\delta > 0$ such that if $m, n \in S$, 
+and $$|m - n|< \delta$$ then: 
+$$|f(m)-f(n)|<\epsilon$$
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
